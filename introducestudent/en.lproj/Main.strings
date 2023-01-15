@@ -1,0 +1,36 @@
+
+/* Class = "UISegmentedControl"; 0Lw-Kn-Jer.segmentTitles[0] = "First"; ObjectID = "0Lw-Kn-Jer"; */
+"0Lw-Kn-Jer.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; 0Lw-Kn-Jer.segmentTitles[1] = "Second"; ObjectID = "0Lw-Kn-Jer"; */
+"0Lw-Kn-Jer.segmentTitles[1]" = "Second";
+
+/* Class = "UISegmentedControl"; 0Lw-Kn-Jer.segmentTitles[2] = "Third"; ObjectID = "0Lw-Kn-Jer"; */
+"0Lw-Kn-Jer.segmentTitles[2]" = "Third";
+
+/* Class = "UISegmentedControl"; 0Lw-Kn-Jer.segmentTitles[3] = "Fourth"; ObjectID = "0Lw-Kn-Jer"; */
+"0Lw-Kn-Jer.segmentTitles[3]" = "Fourth";
+
+/* Class = "UILabel"; text = "First"; ObjectID = "5zo-cs-8ph"; */
+"5zo-cs-8ph.text" = "First";
+
+/* Class = "UILabel"; text = "Last"; ObjectID = "Uxq-mt-mOx"; */
+"Uxq-mt-mOx.text" = "Last";
+
+/* Class = "UILabel"; text = "Pets"; ObjectID = "Z8b-cB-QWC"; */
+"Z8b-cB-QWC.text" = "Pets";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "iKJ-jw-Qx9"; */
+"iKJ-jw-Qx9.text" = "0";
+
+/* Class = "UILabel"; text = "More Pets?"; ObjectID = "rxx-i2-0fL"; */
+"rxx-i2-0fL.text" = "More Pets?";
+
+/* Class = "UIButton"; configuration.title = "Introduce Self"; ObjectID = "sU0-X3-GNU"; */
+"sU0-X3-GNU.configuration.title" = "Introduce Self";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "sU0-X3-GNU"; */
+"sU0-X3-GNU.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "School"; ObjectID = "ubb-T2-fsz"; */
+"ubb-T2-fsz.text" = "School";
