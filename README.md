@@ -6,7 +6,7 @@ APP is used to introduce a student using the information provided.
 
 ### App Walk-though
 
-https://media.giphy.com/media/ajxQ4N4ohvfekWQR8L/giphy.gif
+![X]https://media.giphy.com/media/ajxQ4N4ohvfekWQR8L/giphy.gif
 ### Required Features
 
 - [X] 1. App displays an image of a school's logo
