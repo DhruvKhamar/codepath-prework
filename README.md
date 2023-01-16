@@ -6,7 +6,7 @@ APP is used to introduce a student using the information provided.
 
 ### App Walk-though
 
-file:///private/var/folders/3f/t6tpr_152fjf4m22yrbc3yjc0000gn/T/872f8bc4cda5fb06196da8b02c22571c/Kapture%202023-01-15%20at%2018.59.06.gif 
+https://imgur.com/a/Lrr6kM8 
 
 ### Required Features
 
